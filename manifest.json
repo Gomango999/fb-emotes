@@ -16,11 +16,12 @@
                 "https://www.facebook.com/messages/t/*"
             ],
             "js": [
+                "jquery-3.3.1.js",
                 "replace.js"
             ],
             "run_at": "document_end"
         }
 	],
 
-	"web_accessible_resources": ["32_pik.jpeg"]
+	"web_accessible_resources": ["emotes/supik_32.jpeg"]
 }
