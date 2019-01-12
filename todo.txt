@@ -1,0 +1,26 @@
+Todo:
+
+Programming:
+- Try Mutation Observers
+- Try firebase
+- Jquery
+
+- Make it work for messenger.com
+- Add more emotes
+- enable/disable emotes
+- Try set up google analytics
+
+
+Aesthetics
+- Create an actual logo/icon
+- Replace title with better name
+- Add a short name
+- Update description to be nice
+	- Changelog
+	- Developers Notes
+	- Introduction
+	- Instructions
+- popup.html
+	- enable/disable emotes
+- Add nice screenshots
+	- Need research into what kind of screenshots match

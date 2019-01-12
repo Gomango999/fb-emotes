@@ -1,0 +1,26 @@
+{
+	"name": "image_replace",
+	"version": "1.0",
+	"manifest_version": 2,
+	"description": "Replace text with images",
+
+	"icons": { 
+		"16": "icon/16.png",
+		"48": "icon/48.png",
+		"128": "icon/128.png" 
+	},
+
+	"content_scripts": [
+		{
+            "matches": [
+                "https://www.facebook.com/messages/t/*"
+            ],
+            "js": [
+                "replace.js"
+            ],
+            "run_at": "document_end"
+        }
+	],
+
+	"web_accessible_resources": ["32_pik.jpeg"]
+}
