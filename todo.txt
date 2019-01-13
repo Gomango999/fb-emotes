@@ -3,7 +3,7 @@ Todo:
 Programming:
 - Try Mutation Observers
 - Try firebase
-- Jquery
+- Jquery (DONE)
 
 - Make it work for messenger.com
 - Add more emotes

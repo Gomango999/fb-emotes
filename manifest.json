@@ -23,5 +23,8 @@
         }
 	],
 
-	"web_accessible_resources": ["emotes/supik_32.jpeg"]
+	"web_accessible_resources": [
+		"emotes/supik_24.png",
+		"emotes/pogchamp_24.png"
+	]
 }
