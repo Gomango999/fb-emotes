@@ -1,26 +1,17 @@
 Todo:
 
-Programming:
-- Try Mutation Observers
-- Try firebase
-- Jquery (DONE)
-
-- Make it work for messenger.com
-- Add more emotes
-- enable/disable emotes
-- Try set up google analytics
+1. Find the messagebox using mutation observers/waiting for load, not interval checks
+2. Make it incredible easy to add a new emote
+3. Redo the title and stuff
 
 
-Aesthetics
-- Create an actual logo/icon
-- Replace title with better name
-- Add a short name
-- Update description to be nice
-	- Changelog
-	- Developers Notes
-	- Introduction
-	- Instructions
-- popup.html
-	- enable/disable emotes
-- Add nice screenshots
-	- Need research into what kind of screenshots match
+
+
+
+
+Eventual Features
+- Ability to turn on and off from popup
+- Ability to view all the emotes inside the popup, as well as name
+- Ability to work in messenger.com (a big one)
+- Ability to grab data from firebase ??? (Ask Steven)
+
